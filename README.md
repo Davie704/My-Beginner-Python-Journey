@@ -1,2 +1,2 @@
 # My Beginner Python Journey
-This repo includes some of my sample projects.
+Join me on my journey in learning Python!
